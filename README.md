@@ -1,0 +1,2 @@
+# MLH-Fellowship-Code-Sample
+At Major League Hacking we don’t believe in whiteboarding interviews. Instead, we prefer to talk about the code you’ve written. As part of your application you should submit a code sample that you feel demonstrates your abilities. We’ll review this sample ourselves while looking over your application. If you’re invited to a tech interview, you’ll talk about this specific code with your interviewer.
